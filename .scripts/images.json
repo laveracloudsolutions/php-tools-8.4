@@ -1,0 +1,10 @@
+{
+  "images": [
+    {
+      "folder": ".",
+      "image_tag": "php-tools:8.4-apache-trixie",
+      "image_additionnal_tag": "php-tools:8.4-01",
+      "platforms": "linux/amd64,linux/arm64/v8"
+    }
+  ]
+}
