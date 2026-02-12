@@ -8,8 +8,8 @@ PHP Tools (Base [php-runner-8.4](https://github.com/laveracloudsolutions/php-run
 
 ```bash
 # Tagguer l'image
-docker build -t ghcr.io/laveracloudsolutions/php-tools:8.4-apache .
-docker push ghcr.io/laveracloudsolutions/php-tools:8.4-apache
+docker build -t ghcr.io/laveracloudsolutions/php-tools:8.4-apache-trixie .
+docker push ghcr.io/laveracloudsolutions/php-tools:8.4-apache-trixie
 ```
 
 ## Docker Image | GHCR.IO | Github Action
